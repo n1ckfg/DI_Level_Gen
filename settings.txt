@@ -1,0 +1,14 @@
+Level Start
+50
+
+Level End
+300
+
+Experience Points per Level
+30000
+
+Multiply Points
+1
+
+Add Points
+30000
